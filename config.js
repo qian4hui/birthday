@@ -3,15 +3,15 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "嗨马奇骏",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "17岁生日快乐!",  // 同上...
-        "哇真大了",
-        "祝你十连两金",
-        "保底不歪",
-        "减肥成功",
-        "学业进步",
-        "心想事成",
-        "就这样拜拜",
+        "hi brennie!",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "you're 17 today!!!!",  // 同上...
+        "happy birthday ❤️",
+        "u deserve all the love and pretty things in the world,",
+        "so remember that.",
+        "i know it hasn't been easy lately,",
+        "but don't give up,",
+        "and stay with me.",
+        "i love you",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -28,13 +28,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        turn_on: "start",
+        play: "music",
+        bannar_coming: "colours",
+        balloons_flying: "missing something?",
+        cake_fadein: "cake?",
+        light_candle: "candles?",
+        wish_message: "happy bday!",
         story: "A MESSAGE FOR YOU",
     }
 };
